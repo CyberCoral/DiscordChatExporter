@@ -9,6 +9,9 @@
 [![Pulls](https://img.shields.io/docker/pulls/tyrrrz/discordchatexporter)](https://hub.docker.com/r/tyrrrz/discordchatexporter)
 [![Discord](https://img.shields.io/discord/869237470565392384?label=discord)](https://discord.gg/2SUWKFnHSm)
 -Not political, mentions of Ukraine, the Russo-Ukrainian war or similar have been deleted from this file.-
+
+# Statement from the creator of this DiscordChatExporter fork.
+
 Isn't it ironic that the original repo had a "Fuck Russia" badge? It completely violates the [Github Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct) with the null empathy towards Russian users using, contributing or editing this codebase (the repo). 
 
 ### A community project cannot be political, because **the political opinions of any of its contributors is both unnecessary and harmful to the integrity of the project** [see Github's Terms of Service, especially the Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
