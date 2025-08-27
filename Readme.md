@@ -21,9 +21,15 @@ Isn't it ironic that the original repo had a "Fuck Russia" badge? It completely 
 
 We, as the users of this platform called Github, are not expected to endorse your political ideas, because you live in Ukraine and your work is plagued with [a large amount of political statements](https://github.com/search?q=owner%3ATyrrrz%20political&type=code), which you can keep to yourself or, instead of tainting these projects with Ukrainian-approved echo chambers, say these ideas in a personal blog or community **outside of Github**, where people aren't expected to **condone and agree to your opinions**.
 
+# By the way, the original repo (master branch) is quite political.
+Source: [https://github.com/search?q=repo%3ATyrrrz%2FDiscordChatExporter%20Ukraine&type=code](https://github.com/search?q=repo%3ATyrrrz%2FDiscordChatExporter%20Ukraine&type=code)
+<p align="center">
+    <img src="bias.png" alt="The codebase has, at the time of editing this Readme (27 August 2025), 4 mentions of Ukraine." />
+</p>
+
+# My opinion
 By the way, if anyone is asking, I won't promote my political ideology in this statement, because Politics as a whole is more than just emotions or ideologies. I, CyberCoral, have my opinions about the Russo-Ukrainian war and about Russia, but I will not make you, the user that is reading this Readme, agree with me. If you want to know about my opinions, we can talk on [Discord](https://discordapp.com/users/401513599849201684), but remember:
 
-# My opinion.
 - Be respectful towards each other -including me, CyberCoral, of course-.
 - Have empathy, or try to have it, towards your peers and people who don't share your beliefs, opinions, moral code or whatever you don't share with them.
 - Do not condone ideas, ideologies or beliefs that stop people to have empathy towards their neighbor. 
