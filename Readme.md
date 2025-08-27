@@ -35,7 +35,7 @@ Hate, when uncontained and celebrated, can replicate itself in anyone who accept
 
 <table>
     <tr>
-        <td width="99999" align="center">Development of this project is entirely funded by the community. (CyberCoral here, I wouldn't donate to someone who's Github account and career has got a ton of political messages and opinions, to be honest)<b><a href="https://tyrrrz.me/donate">Consider donating to support!</a></b></td>
+        <td width="99999" align="center">Development of this project is entirely funded by the community. (CyberCoral here, I wouldn't donate to someone who's Github account and career has got a ton of political messages and opinions, to be honest) <b><a href="https://tyrrrz.me/donate">Consider donating to support!</a></b></td>
     </tr>
 </table>
 
