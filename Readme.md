@@ -15,7 +15,7 @@
 
 Isn't it ironic that the original repo had a "Fuck Russia" badge? It completely violates the [Github Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct) with the null empathy towards Russian users using, contributing or editing this codebase (the repo). 
 
-### A community project cannot be political, because **the political opinions of any of its contributors is both unnecessary and harmful to the integrity of the project** [see Github's Terms of Service, especially the Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
+### A community project cannot be political, because **the political opinions of any of its contributors is both unnecessary and harmful to the integrity of the project** [(see Github's Terms of Service, especially the Community Guidelines)](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
 
 <b>Consider creating your own blog with your political ideas,  Oleksii Holub, alias [Tyrrrz](https://github.com/Tyrrrz/), instead of smearing them wherever you go onto whoever reads, uses or contributes to your projects in Github.</b>
 
