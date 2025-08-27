@@ -50,7 +50,7 @@ It works with direct messages, group messages, and server channels, and supports
 
 > 💬 If you want to chat, **join my [Discord server](https://discord.gg/2SUWKFnHSm)**. (beware of political ideas this Discord server may promote, endorse or glorify)
 
-## Terms of use<sup>[[-Not political, mentions of Ukraine, the Russo-Ukrainian war or similar have been deleted from this file and are replaced by this message.-,you can see my (CyberCoral's) opinion on the matter here.]](https://github.com/CyberCoral/DiscordChatExporter/edit/master/Readme.md#L14)]]</sup>
+## Terms of use<sup>[[-Not political, mentions of Ukraine, the Russo-Ukrainian war or similar have been deleted from this file and are replaced by this message.-,you can see my (CyberCoral's) opinion on the matter here.]](https://github.com/CyberCoral/DiscordChatExporter/edit/master/Readme.md#L14)</sup>
 
 -Not political, mentions of Ukraine, the Russo-Ukrainian war or similar have been deleted from this file.-
 Follow Github's community guidelines and Github's Terms of Service, which the original repo -and author(s)- forgot they existed.
