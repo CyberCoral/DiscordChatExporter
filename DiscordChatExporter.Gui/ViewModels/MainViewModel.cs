@@ -24,6 +24,9 @@ public partial class MainViewModel(
     public DashboardViewModel Dashboard { get; } = viewModelManager.CreateDashboardViewModel();
 
     // Disable the political bloatcode. 
+    // https://github.com/search?q=repo%3ATyrrrz%2FDiscordChatExporter%20Ukraine&type=code
+    // https://github.com/Tyrrrz/DiscordChatExporter/blob/master/DiscordChatExporter.Gui/ViewModels/MainViewModel.cs#L26
+    
     settingsService.IsUkraineSupportMessageEnabled = false;
     settingsService.Save();
 
