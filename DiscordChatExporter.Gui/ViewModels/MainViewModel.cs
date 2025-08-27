@@ -23,6 +23,10 @@ public partial class MainViewModel(
 
     public DashboardViewModel Dashboard { get; } = viewModelManager.CreateDashboardViewModel();
 
+    // Disable the political bloatcode. 
+    settingsService.IsUkraineSupportMessageEnabled = false;
+    settingsService.Save();
+
     private async Task ShowUkraineSupportMessageAsync()
     {
         if (!settingsService.IsUkraineSupportMessageEnabled)
