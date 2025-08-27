@@ -52,7 +52,7 @@ It works with direct messages, group messages, and server channels, and supports
 
 ## Terms of use<sup>[[-Not political, mentions of Ukraine, the Russo-Ukrainian war or similar have been deleted from this file and are replaced by this message.-,you can see my (CyberCoral's) opinion on the matter here.]](https://github.com/CyberCoral/DiscordChatExporter/edit/master/Readme.md#L14)</sup>
 
--Not political, mentions of Ukraine, the Russo-Ukrainian war or similar have been deleted from this file.-
+-Not political, mentions of Ukraine, the Russo-Ukrainian war or similar have been deleted from this file and are replaced by this message.-
 Follow Github's community guidelines and Github's Terms of Service, which the original repo -and author(s)- forgot they existed.
 
 Link to them here:
