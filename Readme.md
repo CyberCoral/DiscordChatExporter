@@ -27,6 +27,10 @@ Source: [https://github.com/search?q=repo%3ATyrrrz%2FDiscordChatExporter%20Ukrai
     <img src="bias.png" alt="The codebase has, at the time of editing this Readme (27 August 2025), 4 mentions of Ukraine." />
 </p>
 
+## TO DO:
+- Remove the getter-setter part in (https://github.com/CyberCoral/DiscordChatExporter/blob/master/DiscordChatExporter.Cli/Commands/Base/ExportCommandBase.cs#L141)
+- Remove the getter-setter part in (https://github.com/CyberCoral/DiscordChatExporter/blob/master/DiscordChatExporter.Gui/Services/SettingsService.cs#L21)
+
 # My opinion
 By the way, if anyone is asking, I won't promote my political ideology in this statement, because Politics as a whole is more than just emotions or ideologies. I, CyberCoral, have my opinions about the Russo-Ukrainian war and about Russia, but I will not make you, the user that is reading this Readme, agree with me. If you want to know about my opinions, we can talk on [Discord](https://discordapp.com/users/401513599849201684), but remember:
 
