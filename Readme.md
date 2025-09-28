@@ -32,7 +32,7 @@ Source: [https://github.com/search?q=repo%3ATyrrrz%2FDiscordChatExporter%20Ukrai
 - Remove the getter-setter part in (https://github.com/CyberCoral/DiscordChatExporter/blob/master/DiscordChatExporter.Gui/Services/SettingsService.cs#L21)
 
 # My opinion
-By the way, if anyone is asking, I won't promote my political ideology in this statement, because Politics as a whole is more than just emotions or ideologies. I, CyberCoral, have my opinions about the Russo-Ukrainian war and about Russia, but I will not make you, the user that is reading this Readme, agree with me. If you want to know about my opinions, we can talk on [Discord](https://discordapp.com/users/401513599849201684), but remember:
+By the way, if anyone is asking, I won't promote my political ideology in this statement, because Politics as a whole is more than just emotions or ideologies. I, CyberCoral, have my opinions about the Russo-Ukrainian war and about Russia, but I will not make you, the user that is reading this Readme, agree with me. Personally, I would:
 
 - Be respectful towards each other -including me, CyberCoral, of course-.
 - Have empathy, or try to have it, towards your peers and people who don't share your beliefs, opinions, moral code or whatever you don't share with them.
